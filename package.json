@@ -1,0 +1,16 @@
+{
+  "name": "as-8bi-af-corr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Assig8BApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Assig8BApi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
